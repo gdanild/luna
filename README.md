@@ -1,2 +1,3 @@
 # luna
-Defines the distance from the earth to the moon.
+***Defines the distance from the earth to the moon***
+
